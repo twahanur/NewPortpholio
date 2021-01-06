@@ -1,0 +1,17 @@
+.logo:hover{
+    transition: all .4s;
+    color: turquoise;
+    border-bottom: 1px solid red;
+    transform: scale(.9);
+}
+.menu li:hover,.media:hover{
+    transition: all .3s;
+    color: #e040c0;
+    border-bottom: 1px solid red;
+    transform: scale(.8);
+}
+.button:hover,.button a:hover{
+    transition: all .3s;
+    border-bottom: 1px solid red;
+    transform: scale(.97);
+}

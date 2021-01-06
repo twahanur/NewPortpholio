@@ -1,0 +1,581 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+}
+/* Homepage/landing page */
+.home{   
+    color: white;   
+    background-color: #0e0d39;  
+    height: 95vh;
+    z-index: 2;
+    overflow: hidden;
+    }
+.homepage{
+    width: 1170px;
+    margin: auto;
+    padding: 20px 0px;
+    box-shadow: #000000b5 0px 11px 20px 20px;
+    }
+.logo {
+            font-family: 'Tangerine', cursive;
+            width: 16%;
+            float: left;
+            font-size:60px;
+            font-weight:200;
+        }
+.logo a{
+            text-decoration: none;
+        }
+header{
+            margin: 0 0 250px 0;
+            padding: 0px 60px 0 60px;}
+.menu{
+            width: 40%;
+            float: right;
+        }
+.menu a{
+            padding: 0%;
+            color: white;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+
+ul {
+            list-style: none;
+            display: flex;
+            justify-content: space-between;
+        }
+img{width: 100%;height: 100%;}
+.ContentBx{
+            height: 520px;
+        }
+.Content {width: 40%;padding: 30px;float: left;height: 500px;}
+
+.Thohanur{font-size: 50px;
+    font-weight: bold;
+
+}
+
+
+.ImgContent {
+    width: 40%;
+    margin: -200px 0 0 0;
+    padding: 40px;
+    float: right;
+    height: 700px;
+}
+.about h1 {
+    padding-top: 150px;
+    font-size: 82px;
+    font-weight: bold;
+}
+        
+.button {
+    letter-spacing: 11px;
+    margin: 82px 221px 0 49px;
+    width: 190px;
+    padding: 5px 1px 5px 14px;
+    border-radius: 10px;
+    background: #0fffd3;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0px 0px 20px 6px #00fff3;
+}
+
+.button a {
+    color: black;
+    font-weight: bolder;
+}
+
+a {
+    padding: 0 20px 0 0;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+.media{
+    color: turquoise;
+}
+h6 {
+    font-size: 13px;
+    margin: 0 0 20px 0;
+}
+.color{
+    color: rgb(112, 68, 233);
+}
+.color1{
+    color: turquoise;
+}
+.color2{
+    color: rgb(64, 224, 91);
+}
+.color3{
+    color: rgb(255, 7, 7);
+}
+.color4{
+    color: rgb(255, 240, 36);
+}
+.color5{
+    color: rgb(234, 72, 240);
+}
+.color6{
+    color: rgb(118 255 242);
+}
+.color7{
+    color: rgb(0, 92, 5);
+}
+.color8{
+    color: #83ffaf;
+}
+.color9{
+    color: #ffffff;
+}
+.color10{
+    color: black;
+}
+/* about */
+.about{
+    color: white;   
+    background-color: #72bef0;  
+    height: 95vh;
+    z-index: 2;
+}
+.about h2{
+    padding-top: 120px;
+}
+.ContentBx2{
+    width:90%;
+    margin: auto;
+}
+.ImgContent2 {
+    width: 46%;
+    float: left;
+    height: 100vh;
+    padding-top: 90px;
+}
+/* portpholio */
+.portpholio{
+    background: lightgray;
+    color: white;
+}
+.Pdetails{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.portpholio h1{
+    float: left;
+    margin: 0 0 60*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+}
+/* Homepage/landing page */
+.home{   
+    color: white;   
+    background-color: #0e0d39;  
+    height: 95vh;
+    z-index: 2;
+    overflow: hidden;
+    }
+.homepage{
+    width: 1170px;
+    margin: auto;
+    padding: 20px 0px;
+    box-shadow: #000000b5 0px 11px 20px 20px;
+    }
+.logo {
+            font-family: 'Tangerine', cursive;
+            width: 16%;
+            float: left;
+            font-size:60px;
+            font-weight:200;
+        }
+.logo a{
+            text-decoration: none;
+        }
+header{
+            margin: 0 0 250px 0;
+            padding: 0px 60px 0 60px;}
+.menu{
+            width: 40%;
+            float: right;
+        }
+.menu a{
+            padding: 0%;
+            color: white;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+
+ul {
+            list-style: none;
+            display: flex;
+            justify-content: space-between;
+        }
+img{width: 100%;height: 100%;}
+.ContentBx{
+            height: 520px;
+        }
+.Content {width: 40%;padding: 30px;float: left;height: 500px;}
+
+.Thohanur{font-size: 50px;
+    font-weight: bold;
+
+}
+
+
+.ImgContent {
+    width: 40%;
+    margin: -200px 0 0 0;
+    padding: 40px;
+    float: right;
+    height: 700px;
+}
+.about h1 {
+    padding-top: 150px;
+    font-size: 82px;
+    font-weight: bold;
+}
+        
+.button {
+    letter-spacing: 11px;
+    margin: 82px 221px 0 49px;
+    width: 190px;
+    padding: 5px 1px 5px 14px;
+    border-radius: 10px;
+    background: #0fffd3;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0px 0px 20px 6px #00fff3;
+}
+
+.button a {
+    color: black;
+    font-weight: bolder;
+}
+
+a {
+    padding: 0 20px 0 0;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+.media{
+    color: turquoise;
+}
+h6 {
+    font-size: 13px;
+    margin: 0 0 20px 0;
+}
+.color{
+    color: rgb(112, 68, 233);
+}
+.color1{
+    color: turquoise;
+}
+.color2{
+    color: rgb(64, 224, 91);
+}
+.color3{
+    color: rgb(255, 7, 7);
+}
+.color4{
+    color: rgb(255, 240, 36);
+}
+.color5{
+    color: rgb(234, 72, 240);
+}
+.color6{
+    color: rgb(118 255 242);
+}
+.color7{
+    color: rgb(0, 92, 5);
+}
+.color8{
+    color: #83ffaf;
+}
+.color9{
+    color: #ffffff;
+}
+.color10{
+    color: black;
+}
+/* about */
+.about{
+    color: white;   
+    background-color: #72bef0;  
+    height: 95vh;
+    z-index: 2;
+}
+.about h2{
+    padding-top: 120px;
+}
+.ContentBx2{
+    width:90%;
+    margin: auto;
+}
+.ImgContent2 {
+    width: 46%;
+    float: left;
+    height: 100vh;
+    padding-top: 90px;
+}
+/* portpholio */
+.portpholio{
+    background: lightgray;
+    color: white;
+}
+.Pdetails{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+.portpholio h1{
+    float: left;
+    margin: 0px 0 73px 28%;
+    text-align: center;
+    font-size: 70px;
+}
+.Projects{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-bottom: 70px;
+}
+.details {
+    height: 40vh;
+}
+.Projectsdetails{background: white;color: black;margin-right: 40px;border-radius: 10px;box-shadow: 20px 20px 20px 0px #000000d6;}
+.text{
+    padding: 15px;
+    font-size: 25px;
+}
+/* this is testimonial section */
+.Testimonial{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.Client {
+    width: 40%;
+    margin: auto;
+    border: 1px solid #ffffff00;
+    box-shadow: 17px 20px 15px 3px #868dad;
+}
+.Client .Review{
+    padding: 10px;
+    font-family: 'Tangerine', cursive;
+    font-style: italic;
+}
+.TopArea {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    height: 200px;
+}
+.ClientImg{
+ border: 1px dotted rgba(255, 0, 0, 0) ;
+ border-radius:50%;
+ overflow: hidden;
+
+}
+.Clientname{
+    padding-left: 50px;
+    font-size: 23px;
+}
+.Rating{
+    }
+/* This is contact section */
+.Contact{
+    display: flex;
+    height: 50vh;
+    width: 100%;
+}
+.ContactBx{
+    width: 70%;
+    height: 30vh;
+    margin: auto;
+    display: flex;
+    background: url(images/Group_33094_1.png);
+    background-size: cover;
+    border: 1px solid #0000ff00;
+    overflow: hidden;
+    border-radius: 12%;
+}
+.LeftContact{
+    font-family: 'Heebo', sans-serif;
+    width: 49%;
+    margin: auto;
+    position: relative;
+    color: white;
+    font-size: 44px;
+    font-weight: 800;
+}
+.RightContent{
+    margin: auto;
+    background: #ff6a52;
+    width: 14%;
+    height: 29%;
+    border: 1px dotted #ff000000;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.RightContent a {
+    font-size: 26px;
+    margin: 22px 0px 11px -60px;
+    position: absolute;
+}
+/* this is the last icon section */
+.LastSection{
+    width: 56%;
+    margin: auto;
+    height: 40vh;
+}
+
+section.LastSection .LastText {
+    font-size: 40px;
+    color: gray;
+    text-align: center;
+}
+.LastSection .Email{
+    font-size: 64px;
+    color: black;
+    text-align: center;
+    padding-bottom: 23px;
+}
+.icon{
+    display: flex;
+    margin: auto;
+    width: 24%;
+    justify-content: space-between;
+}
+.icon img{
+    width: 20%;
+}px 20%;
+}
+.Projects{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-bottom: 70px;
+}
+.details {
+    height: 40vh;
+}
+.Projectsdetails{background: white;color: black;margin-right: 40px;border-radius: 10px;box-shadow: 20px 20px 20px 0px #000000d6;}
+.text{
+    padding: 15px;
+    font-size: 25px;
+}
+/* this is testimonial section */
+.Testimonial{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.Client {
+    width: 40%;
+    margin: auto;
+    border: 1px solid #ffffff00;
+    box-shadow: 17px 20px 15px 3px #868dad;
+}
+.Client .Review{
+    padding: 10px;
+    font-family: 'Tangerine', cursive;
+    font-style: italic;
+}
+.TopArea {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    height: 200px;
+}
+.ClientImg{
+ border: 1px dotted rgba(255, 0, 0, 0) ;
+ border-radius:50%;
+ overflow: hidden;
+
+}
+.Clientname{
+    padding-left: 50px;
+    font-size: 23px;
+}
+.Rating{
+    }
+/* This is contact section */
+.Contact{
+    display: flex;
+    height: 50vh;
+    width: 100%;
+}
+.ContactBx{
+    width: 70%;
+    height: 30vh;
+    margin: auto;
+    display: flex;
+    background: url(images/Group_33094_1.png);
+    background-size: cover;
+    border: 1px solid #0000ff00;
+    overflow: hidden;
+    border-radius: 12%;
+}
+.LeftContact{
+    font-family: 'Heebo', sans-serif;
+    width: 49%;
+    margin: auto;
+    position: relative;
+    color: white;
+    font-size: 44px;
+    font-weight: 800;
+}
+.RightContent{
+    margin: auto;
+    background: #ff6a52;
+    width: 14%;
+    height: 29%;
+    border: 1px dotted #ff000000;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.RightContent a {
+    font-size: 26px;
+    margin: 22px 0px 11px -60px;
+    position: absolute;
+}
+/* this is the last icon section */
+.LastSection{
+    width: 56%;
+    margin: auto;
+    height: 40vh;
+}
+
+section.LastSection .LastText {
+    font-size: 40px;
+    color: gray;
+    text-align: center;
+}
+.LastSection .Email{
+    font-size: 64px;
+    color: black;
+    text-align: center;
+    padding-bottom: 23px;
+}
+.icon{
+    display: flex;
+    margin: auto;
+    width: 24%;
+    justify-content: space-between;
+}
+.icon img{
+    width: 20%;
+}
